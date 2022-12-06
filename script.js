@@ -123,8 +123,8 @@ function showWinningMessage(result) {
     }
 }
 
-// Check if it is a draw. 
-// If all cells on the board have either x or circle class and there is no other turn then it is draw.
+/* Check if it is a draw. 
+ If all cells on the board have either x or circle class and there is no other turn then it is draw. */
 
 
 function checkIfDraw() {
